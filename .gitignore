@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+
+#Folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Dd]debug/
+SpeakingIsHardNX/[Dd]ebug
+SpeakingIsHardNX/SpeakingIsHardNX/[Dd]ebug
+SpeakingIsHardNX/SpeakingIsHardNX/[Bb]uild
+SpeakingIsHardNX/SpeakingIsHardNX/[Oo]ut
+SpeakingIsHardNX/[Vv]s
+SpeakingIsHardNX/.[Vv]s
